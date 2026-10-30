@@ -58,7 +58,7 @@ This project turns a raw 150,000-row Uber ride log into a **decision-ready Power
 ### 1 · Home / Landing Page
 Cover page framing the project, author, and page navigation.
 
-![Home Page](images/01-home.jpg)
+![Home Page](images/01-home.jpeg)
 
 ### 2 · Overview Page
 The executive summary: top-line KPIs (Completed Bookings, Lost Bookings, Revenue, Total Distance, Avg Distance), a Completed Bookings trend (month/quarter toggle), a monthly Revenue bar chart, Revenue by Vehicle Type, Top Pickup/Drop locations, Avg. Customer/Driver rating, and the three-ring Completed / Cancelled / Incomplete breakdown.
